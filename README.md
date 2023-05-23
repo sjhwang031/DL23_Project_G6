@@ -1,7 +1,9 @@
 # DL23_Project_G6
 # 0. Introduction
 Target: High school students
+
 Class contents: Textbooks or mock tests
+
 Goal: Effective teaching using digital literacy
 # 1. Wordcloud
 Watch Wordcloud and get a rough idea of what's coming out of this class
