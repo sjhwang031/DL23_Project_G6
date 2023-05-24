@@ -85,7 +85,7 @@ if __name__ == '__main__':
 # 4. Solving the problems
 **Read the text and solve the problem**
 
-# Quiz
+Quiz
 
 quiz_numbers = "3" #@param = [1, 2, 3, 4, 5]
 qn = int(quiz_numbers)
