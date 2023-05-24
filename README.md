@@ -15,7 +15,7 @@ Goal: Effective teaching using digital literacy
 *enclosure: 올타리 안, 담장 안 **dispense: 제공하다, 나눠 주다 ***spitefulness: 악의
 # 1. Wordcloud
 
-**Watch Wordcloud and get a rough idea of what's coming out of this class
+**Watch Wordcloud and get a rough idea of what's coming out of this class**
 
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
@@ -33,7 +33,7 @@ plt.axis('off')
 plt.show()
 
 # 2. Shadow Reading
-**Practice speaking by listening to the voice from tts and following along
+**Practice speaking by listening to the voice from tts and following along**
 
 !pip install gTTS
 from gtts import gTTS
@@ -47,7 +47,7 @@ tts()
 
 
 # 3. Vocabulary test
-**Studying and learning difficult vocabulary in the text
+**Studying and learning difficult vocabulary in the text**
 
 import random
 
@@ -83,10 +83,10 @@ if __name__ == '__main__':
     quiz(num_questions)
     
 # 4. Solving the problems
-**Read the text and solve the problem
+**Read the text and solve the problem**
 
 # 5. Watching grammar video
-**Watching videos related to grammar in the text
+**Watching videos related to grammar in the text**
 
 Videos = "1. Grammar" #@param = ["1. Grammar", "2. ", "3. "]
 
@@ -98,6 +98,6 @@ video_id = ["link","",""]
 myvideo = video_id[num]
 YouTubeVideo(myvideo, width = 800, height = 600)
 # 6. Self-log and review
-**Write a self-log and get evaluation or feedback on the class
+**Write a self-log and get evaluation or feedback on the class**
 
 [Self log link](https://forms.gle/)
