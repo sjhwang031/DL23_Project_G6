@@ -1,7 +1,9 @@
 # DL23_Project_G6
 # 0. Introduction
-# Target: High school 3rd grade students
-# Goal: Effective teaching using digital literacy
+# Target 
+High school 3rd grade students
+# Goal
+Effective teaching using digital literacy
 # Class contents
 1.We do know that the ability to question, whether verbally or through other means, is one of the things that separates us from lower primates. Paul Harris, an education professor at Harvard University who has studied questioning in children, observes, "Unlike other primates, we humans are designed so that the young look to the old for cultural information." He sees this as an important "evolutionary divide" - that from an early age, even before speech, humans will use some form of questioning to try to gain information. A child may pick up a kiwi fruit and indicate, through a look or gesture directed at a nearby adult, a desire to know more. Chimpanzees don't do this; they may "ask" for a treat through signaling, but it's a simple request for food, as opposed to an information-seeking question. So then, one of the primary drivers of questioning is an awareness of what we don't know - which is a form of higher awareness that separates not only man from monkey but also the smart and curious person from the dullard who doesn't know or care. Good questioners tend to be aware of, and quite comfortable with, their own ignorance (Richard Saul Wurman, the founder of the TED Conferences, has been known to brag, "I know more about my ignorance than you know about yours"). But they constantly examine that vast ignorance using the question flashlight - or, if you prefer, they attack it with the question spade.
 
