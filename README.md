@@ -1,6 +1,6 @@
 # DL23_Project_G6
 # 0. Introduction
-Target: High school students
+Target: High school 3rd grade students
 
 Class contents: Textbooks or mock tests
 
