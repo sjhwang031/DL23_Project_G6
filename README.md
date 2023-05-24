@@ -85,6 +85,50 @@ if __name__ == '__main__':
 # 4. Solving the problems
 **Read the text and solve the problem**
 
+# Quiz
+
+quiz_numbers = "3" #@param = [1, 2, 3, 4, 5]
+qn = int(quiz_numbers)
+
+if qn == 1:
+  myQ = input("text ")
+  if myQ == "answer":
+    txt = "That's correct! The answer is answer."
+  else:
+    txt = "Your answer %s is incorrect. Try again!"%myQ
+
+elif qn == 2:
+  myQ = input("text ")
+  if myQ == "answer":
+    txt = "You're right! The answer is answer."
+  else:
+    txt = "Your answer %s is incorrect. Try again!"%myQ
+
+elif qn == 3:
+  myQ = input("text ")
+  if myQ == "answer":
+    txt = "Good job! The answer is answer."
+  else:
+    txt = "Your answer %s is incorrect. Try again!"%myQ
+
+elif qn == 4:
+  myQ = input("text ")
+  if myQ == "answer":
+    txt = "Congratulations! The answer is answer."
+  else:
+    txt = "Your answer %s is incorrect. Try again!"%myQ
+
+elif qn == 5:
+  myQ = input("text ")
+  if myQ == "answer":
+    txt = "Wow, you're great! The answer is answer."
+  else:
+    txt = "Your answer %s is incorrect. Try again!"%myQ
+
+etts(txt)
+
+Audio("E-audio.mp3", autoplay = True)
+
 # 5. Watching grammar video
 **Watching videos related to grammar in the text**
 
