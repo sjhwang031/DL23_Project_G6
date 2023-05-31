@@ -1,5 +1,5 @@
 # DL23_Project_G6
-[Goto G5 Lesson](https://github.com/sjhwang031/DL23_Project_G6/blob/main/DL23_Project_G6.ipynb)
+[Goto G6 Lesson](https://github.com/sjhwang031/DL23_Project_G6/blob/main/DL23_Project_G6.ipynb)
 # 0. Introduction
 # Target 
 High school 3rd grade students
