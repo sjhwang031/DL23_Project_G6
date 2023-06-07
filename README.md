@@ -18,7 +18,7 @@ Improvement of high school 3rd grade students' reading skills by using digital t
 
 # 💭1. Wordcloud
 
-**Watch Wordcloud and get a rough idea of what's coming out of this class**
+**The word cloud gives you a glimpse of the main topics covered in the class. It visually represents the frequency and prominence of different words or phrases, providing a quick overview of the key concepts you can expect to encounter. Analyzing the word cloud helps you get an initial understanding of the subject matter and mentally prepare for the class.**
 
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
@@ -36,7 +36,7 @@ plt.axis('off')
 plt.show()
 
 # 🎤2. Shadow Reading
-**Practice speaking by listening to the voice from tts and following along**
+**Practicing speaking by listening to TTS audio and following along helps improve pronunciation, intonation, and speaking skills. It exposes you to native-like accents, allows for repetition, and enhances listening comprehension. Actively engage by repeating words and phrases, imitating the speaker's rhythm, and trying shadowing. Consistent practice with TTS can boost fluency and confidence in speaking.**
 
 !pip install gTTS
 from gtts import gTTS
@@ -50,7 +50,7 @@ tts()
 
 
 # 📝3. Vocabulary test
-**Studying and learning difficult vocabulary in the text**
+**By learning difficult vocabulary in advance through quizzes, it reduces the burden of reading the text and helps understanding**
 
 import random
 
@@ -86,7 +86,7 @@ if __name__ == '__main__':
     quiz(num_questions)
     
 # 💡4. Solving the problems
-**Read the text and solve the problem**
+**To identify the understanding of the text, solve the problem and check the contents that learners did not understand**
 
 Quiz
 
@@ -100,40 +100,12 @@ if qn == 1:
   else:
     txt = "Your answer %s is incorrect. Try again!"%myQ
 
-elif qn == 2:
-  myQ = input("text ")
-  if myQ == "answer":
-    txt = "You're right! The answer is answer."
-  else:
-    txt = "Your answer %s is incorrect. Try again!"%myQ
-
-elif qn == 3:
-  myQ = input("text ")
-  if myQ == "answer":
-    txt = "Good job! The answer is answer."
-  else:
-    txt = "Your answer %s is incorrect. Try again!"%myQ
-
-elif qn == 4:
-  myQ = input("text ")
-  if myQ == "answer":
-    txt = "Congratulations! The answer is answer."
-  else:
-    txt = "Your answer %s is incorrect. Try again!"%myQ
-
-elif qn == 5:
-  myQ = input("text ")
-  if myQ == "answer":
-    txt = "Wow, you're great! The answer is answer."
-  else:
-    txt = "Your answer %s is incorrect. Try again!"%myQ
-
 etts(txt)
 
 Audio("E-audio.mp3", autoplay = True)
 
 # 👀5. Watching grammar video
-**Watching videos related to grammar in the text**
+**Watch grammar videos related to the text to improve understanding. Pay attention to explanations, examples, and visuals. Take notes and apply the grammar rules to the text. Supplement with additional resources as needed. Videos provide dynamic explanations for better comprehension.**
 
 Videos = "1. Grammar" #@param = ["1. Grammar", "2. ", "3. "]
 
@@ -147,4 +119,5 @@ YouTubeVideo(myvideo, width = 800, height = 600)
 # 💯6. Self-log and review
 **Write a self-log and get evaluation or feedback on the class**
 
-[Self log link](https://forms.gle/)
+⭐[Self log link]⭐
+(https://docs.google.com/forms/d/1pD0EDTGgGtazjJxkJ9eZkTeYfostJy84R3HgUOBCmOo/edit)
