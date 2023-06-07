@@ -1,30 +1,22 @@
-# DL23_Project_G6
-[Goto G6 Lesson](https://github.com/sjhwang031/DL23_Project_G6/blob/main/DL23_Project_G6.ipynb)
-# 0. Introduction
-# Target 
-High school 3rd grade students
+# Lessons for the improvement of high school 3rd grade students' reading skills
+# Step 1
+🎧[Watch preview video]
+# Step 2
+📕[Click here to start main lesson](https://github.com/sjhwang031/DL23_Project_G6/blob/main/DL23_Project_G6.ipynb)
+# Learners 
+This online course is suitable for High school 3rd grade students 
 # Goal
-Effective teaching using digital literacy
+Improvement of high school 3rd grade students' reading skills by using digital tools
 # Class contents
 1.We do know that the ability to question, whether verbally or through other means, is one of the things that separates us from lower primates. Paul Harris, an education professor at Harvard University who has studied questioning in children, observes, "Unlike other primates, we humans are designed so that the young look to the old for cultural information." He sees this as an important "evolutionary divide" - that from an early age, even before speech, humans will use some form of questioning to try to gain information. A child may pick up a kiwi fruit and indicate, through a look or gesture directed at a nearby adult, a desire to know more. Chimpanzees don't do this; they may "ask" for a treat through signaling, but it's a simple request for food, as opposed to an information-seeking question. So then, one of the primary drivers of questioning is an awareness of what we don't know - which is a form of higher awareness that separates not only man from monkey but also the smart and curious person from the dullard who doesn't know or care. Good questioners tend to be aware of, and quite comfortable with, their own ignorance (Richard Saul Wurman, the founder of the TED Conferences, has been known to brag, "I know more about my ignorance than you know about yours"). But they constantly examine that vast ignorance using the question flashlight - or, if you prefer, they attack it with the question spade.
 
-*primate: 영장류 **brag: 호언장당하다 ***spade: 삽
-![스크린샷 2023-05-24 114848](https://github.com/JRJO00/DL23_Project_G6/assets/127911632/b2cc15af-6cdc-4d48-b6fe-f96adbd44d4d)
-![스크린샷 2023-05-24 115112](https://github.com/JRJO00/DL23_Project_G6/assets/127911632/a0e6cc15-f98e-4507-b18f-7cc9efdeab5b)
-
-![스크린샷 2023-05-24 115132](https://github.com/JRJO00/DL23_Project_G6/assets/127911632/8018a2b3-11bb-4524-999c-870c7c950ef6)
+*primate: 영장류 **brag: 호언장담하다 ***spade: 삽
 
 2.Humans are motivated, at least in part, by empathy and concern for the welfare of others. We donate blood for strangers, contribute to charity, and punish violators of social norms. Chimpanzees are, together with bonobos, our closest relatives, and they similarly engage in cooperative hunting, comfort victims of aggression, and perform other collective activities. Would they show concern for the welfare of unrelated, familiar chimps if the benefits were at no cost to themselves? Researcher Joan Silk and her collaborators conducted an experiment with chimps that had lived together for fifteen years or more. Eighteen chimps were studied, from two different populations with different life histories and exposures to experiments. Pairs of chimps faced each other in opposing enclosures or sat side by side, and could see and hear each other. One chimp, the actor, was given the choice to pull one of two handles: if the actor pulled the "nice" handle, both the actor and the other chimp got food, and exactly the same portion. If the actor pulled the "nasty" handle, only the actor received food, and the other chimp got nothing. In a control test, only the actor was present. Which handle did the chimps pull? When no other chimp was present, the actors chose both options about equally frequently. The chimps didn't care, and why should they? Yet even when a second chimp arrived, the chimps didn't choose the "nice" option more often. Although they could clearly see the other one displaying desperate begging gestures, or happily eating the food when it was dispensed, the chimps showed no sign of empathy. It should be noted that they showed no spitefulness either. What mattered to the actors more than the other chimp was whether the handle for the nice option was placed on their right or left side. They had a much stronger preference for the right side than for the happiness of their partner. Chimps simply did not seem to care about the welfare of unrelated group members.
 
 *enclosure: 올타리 안, 담장 안 **dispense: 제공하다, 나눠 주다 ***spitefulness: 악의
-![스크린샷 2023-05-24 115834](https://github.com/JRJO00/DL23_Project_G6/assets/127911632/27797ae6-7414-4f8d-a750-36f128dd1e99)
-![스크린샷 2023-05-24 115414](https://github.com/JRJO00/DL23_Project_G6/assets/127911632/a73d4fac-9559-495c-9cd6-1cd019a22bea)
-![스크린샷 2023-05-24 115423](https://github.com/JRJO00/DL23_Project_G6/assets/127911632/4cd2d315-438e-4066-89b7-c5fc53e37962)
-![스크린샷 2023-05-24 115431](https://github.com/JRJO00/DL23_Project_G6/assets/127911632/4299c568-b556-4104-8367-dc3af6a98278)
-![스크린샷 2023-05-24 115440](https://github.com/JRJO00/DL23_Project_G6/assets/127911632/aee8d4d4-6716-4ce0-b569-45bc76d2543c)
-![스크린샷 2023-05-24 115448](https://github.com/JRJO00/DL23_Project_G6/assets/127911632/1728db40-1b67-40ee-8a2a-2ca4cab4fa34)
-![스크린샷 2023-05-24 115456](https://github.com/JRJO00/DL23_Project_G6/assets/127911632/397ba72c-c467-4edc-8f09-037a628d8694)
-# 1. Wordcloud
+
+# 💭1. Wordcloud
 
 **Watch Wordcloud and get a rough idea of what's coming out of this class**
 
@@ -43,7 +35,7 @@ plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis('off')
 plt.show()
 
-# 2. Shadow Reading
+# 🎤2. Shadow Reading
 **Practice speaking by listening to the voice from tts and following along**
 
 !pip install gTTS
@@ -57,7 +49,7 @@ def tts(text):
 tts()
 
 
-# 3. Vocabulary test
+# 📝3. Vocabulary test
 **Studying and learning difficult vocabulary in the text**
 
 import random
@@ -93,7 +85,7 @@ if __name__ == '__main__':
     num_questions = int(input("How many questions would you like to play? "))
     quiz(num_questions)
     
-# 4. Solving the problems
+# 💡4. Solving the problems
 **Read the text and solve the problem**
 
 Quiz
@@ -140,7 +132,7 @@ etts(txt)
 
 Audio("E-audio.mp3", autoplay = True)
 
-# 5. Watching grammar video
+# 👀5. Watching grammar video
 **Watching videos related to grammar in the text**
 
 Videos = "1. Grammar" #@param = ["1. Grammar", "2. ", "3. "]
@@ -152,7 +144,7 @@ num = int(num)-1
 video_id = ["link","",""]
 myvideo = video_id[num]
 YouTubeVideo(myvideo, width = 800, height = 600)
-# 6. Self-log and review
+# 💯6. Self-log and review
 **Write a self-log and get evaluation or feedback on the class**
 
 [Self log link](https://forms.gle/)
