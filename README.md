@@ -55,17 +55,7 @@ tts()
 import random
 
 vocab_dict = {
-    "apple": "a round fruit with red or green skin and white flesh",
-    "book": "a written or printed work consisting of pages glued or sewn together along one side and bound in covers",
-    "computer": "an electronic device for storing and processing data",
-    "dog": "a domesticated carnivorous mammal with a pointed snout, furry coat, and long tail",
-    "umbrella": "a device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain",
-    "television": "an electronic system of transmitting images and sound that are reproduced on screens, chiefly used to broadcast programs for entertainment, information, and education",
-    "coffee": "a drink made from the roasted and ground bean-like seeds of a tropical shrub",
-    "chair": "a separate seat for one person, typically with a back and four legs",
-    "pen": "an instrument for writing or drawing with ink",
-    "phone": "a device that can make and receive calls over a telephone line or wireless connection"
-}
+    "apple": "a round fruit with red or green skin and white flesh",}
 
 def quiz(num_questions):
     score = 0
