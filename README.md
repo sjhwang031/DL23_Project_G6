@@ -1,6 +1,6 @@
 # 👨‍🏫Lessons for the improvement of high school 3rd grade students' reading skills
 # Step 1
-🎧[Click here to watch preview video](https://youtu.be/STtZdbJCZwc)
+🎧[Click here to watch preview video](https://youtu.be/zUQxmUT-m3M)
 # Step 2
 📕[Click here to start main lesson](https://github.com/sjhwang031/DL23_Project_G6/blob/main/DL23_Project_G6.ipynb)
 # 🙋Learners 
